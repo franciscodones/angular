@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+  }
+
+  .btnEdit, .btnDelete {
+    cursor: pointer;
+  }
+
+  .btnDelete {
+    color: #803048;
+  }
+
+  .btnEdit {
+    color: #4878CD;
+  }
